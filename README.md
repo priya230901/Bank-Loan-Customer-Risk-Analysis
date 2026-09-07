@@ -2,6 +2,9 @@
 # Project Overview
 Banks generate a large amount of customer and loan-related data, including customer details, loan types, loan amounts, income, credit scores, risk categories, and repayment information. Managing and analyzing this data manually can be time-consuming and may lead to errors.
 The Bank Loan & Customer Risk Analysis Dashboard is a Power BI project designed to analyze banking and loan data efficiently. It provides meaningful insights into loan performance, customer segments, risk exposure, outstanding balances, and default rates to support better decision-making and risk management.
+<img width="1238" height="729" alt="image" src="https://github.com/user-attachments/assets/a3def1ad-27e0-44ca-b82f-d3ef496d3394" />
+<img width="1249" height="732" alt="image" src="https://github.com/user-attachments/assets/05115062-4e2a-457e-bd9c-018b9d453220" />
+
 
 # Objectives
 Analyze the overall loan portfolio and outstanding balance.
